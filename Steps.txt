@@ -1,0 +1,8 @@
+1. Generate a zip file from the spring initializer with web and Lombok dependency.
+2. Extract the zipped file and Open pom.xml in IntelliJ. It will automatically open the whole project. 
+3. Create Gemini API : AIzaSyBPvaUBMguNn8tZBLsUDc2EzvgrgI8daMA
+4. Make a new Collection in Postman, import the curl code into it and add the above API key.
+5. Now on Body Section, you can give questions to GET mapping, and it will generate reply for that.
+
+
+Note: After adding any new dependency don't forget to reload Maven changes it will sync all dependencies.
